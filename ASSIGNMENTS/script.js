@@ -1,4 +1,5 @@
-let max = 57;
-let actual = max - 13;
-let percentage = actual / max;  
-console.log(percentage); 
+const cap = (str) => {
+    return str.charAt(str.length -1);
+};
+
+console.log(cap('fAiZan'));
