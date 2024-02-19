@@ -2,4 +2,4 @@ const cap = (str) => {
     return str.charAt(str.length -1);
 };
 
-console.log(cap('fAiZan'));
+console.log(cap('jAva SCript'));
